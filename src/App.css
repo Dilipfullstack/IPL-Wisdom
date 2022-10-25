@@ -36,3 +36,41 @@
     transform: rotate(360deg);
   }
 }
+
+.trivia-button {
+  border: 1px solid rgb(0,0,255, 0.3);
+  background-color: rgb(255, 99, 132, 0.3);
+  width: 10%;
+  margin-top: 10px;
+  float: left;
+  cursor: pointer;
+  color: rgb(0,0,255);
+}
+
+.first-box {
+  margin-left: 35%;
+}
+
+.selected {
+  border: 1px solid rgb(0,0,255);
+  background-color: rgb(255, 99, 132);
+  font-weight: bold;
+}
+
+.description {
+  border: 1px solid rgb(255, 99, 132);
+  margin: 30px;
+  border-radius: 10px;
+  padding: 10px;
+  color: rgb(0,0,255);
+  border-style: double;
+}
+
+.illustration {
+  width: 67%;
+  margin: auto;
+}
+
+.doughnut {
+  width: 35%;
+}
